@@ -11,6 +11,6 @@ This repository has problems and solutions to HackerRank **practice**, **tutoria
 * [Python](#python)
 * [JavaScript](#JavaScript)
 * [SQL](#sql)
-* [Problem Solving]
+* [Problem Solving](#Problem Solving)
 
 
