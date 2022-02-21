@@ -12,5 +12,7 @@ This repository has problems and solutions to HackerRank **practice**, **tutoria
 * [JavaScript](#JavaScript)
 * [SQL](#sql)
 * [Problem-Solving](#Problem-Solving)
+* [C++](#C++)
+* [C](#C)
 
 
