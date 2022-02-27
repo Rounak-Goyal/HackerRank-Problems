@@ -5,7 +5,7 @@ This repository has problems and solutions to HackerRank **practice**, **tutoria
 ## Personal HackerRank Profile
 
 [View Profile](https://www.hackerrank.com/rounak_goyal)<br>www.hackerrank.com/rounak_goyal<br>
-<img src="img/hackerrank.jpg">
+
 
 
 
